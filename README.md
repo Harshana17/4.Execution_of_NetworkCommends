@@ -26,7 +26,13 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+## program
+
+![image](https://github.com/user-attachments/assets/399e88e6-3485-42c6-a371-22703f140d3b)
+
+
 ## Output
+
 
 ## Result
 Thus Execution of Network commands Performed 
