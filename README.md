@@ -33,6 +33,15 @@ This commands includes
 
 ## Output
 
+![WhatsApp Image 2025-04-16 at 10 59 20_a49dd785](https://github.com/user-attachments/assets/7ff485f8-c02d-43cc-879b-fbac2b51265d)
+
+## program
+
+![image](https://github.com/user-attachments/assets/5e6fd43d-12ee-4a66-bddd-16e2ebc66492)
+
+## output
+
+![WhatsApp Image 2025-04-16 at 10 59 30_37c3d1df](https://github.com/user-attachments/assets/588a03b4-9526-4243-ba81-30216a0bbb5b)
 
 ## Result
 Thus Execution of Network commands Performed 
